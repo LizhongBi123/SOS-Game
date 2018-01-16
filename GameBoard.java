@@ -16,7 +16,7 @@ import java.util.Scanner;
 
 /**
  * 
- * @author Andrew and Lizhong
+ * 
  *
  */
 public class GameBoard extends JPanel {
