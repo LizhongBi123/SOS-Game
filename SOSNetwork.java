@@ -15,7 +15,7 @@ import java.net.*;
 
 /**
  * 
- * @author Andrew and Brian
+ * 
  *
  */
 class SOSNetwork {
